@@ -1,6 +1,7 @@
-[core]
-	repositoryformatversion = 0
-	filemode = false
-	bare = false
-	logallrefupdates = true
-	ignorecase = true
+[core cambios]
+	repositoryformatversion = 1
+	filemode = false, true
+	bare = false and other
+	logallrefupdates = true or false
+	ignorecase = true and false
+[seven line]
